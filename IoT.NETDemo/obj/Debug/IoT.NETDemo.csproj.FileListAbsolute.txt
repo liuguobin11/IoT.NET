@@ -1,0 +1,37 @@
+D:\02_Project\98_SW Program\MoonlakeTools\UtilTest\bin\Debug\UtilTest.exe.config
+D:\02_Project\98_SW Program\MoonlakeTools\UtilTest\bin\Debug\UtilTest.exe
+D:\02_Project\98_SW Program\MoonlakeTools\UtilTest\bin\Debug\UtilTest.pdb
+D:\02_Project\98_SW Program\MoonlakeTools\UtilTest\bin\Debug\MoonlakeTools.dll
+D:\02_Project\98_SW Program\MoonlakeTools\UtilTest\bin\Debug\Newtonsoft.Json.dll
+D:\02_Project\98_SW Program\MoonlakeTools\UtilTest\bin\Debug\MQTTnet.dll
+D:\02_Project\98_SW Program\MoonlakeTools\UtilTest\bin\Debug\MetroFramework.dll
+D:\02_Project\98_SW Program\MoonlakeTools\UtilTest\bin\Debug\HPSocketCS.dll
+D:\02_Project\98_SW Program\MoonlakeTools\UtilTest\bin\Debug\CSharpToolKit.dll
+D:\02_Project\98_SW Program\MoonlakeTools\UtilTest\bin\Debug\MoonlakeTools.pdb
+D:\02_Project\98_SW Program\MoonlakeTools\UtilTest\obj\Debug\IoT.NETDemo.csprojResolveAssemblyReference.cache
+D:\02_Project\98_SW Program\MoonlakeTools\UtilTest\obj\Debug\UtilTest.exe
+D:\02_Project\98_SW Program\MoonlakeTools\UtilTest\obj\Debug\UtilTest.pdb
+D:\02_Project\98_SW Program\MoonlakeTools\IoT.NETDemo\bin\Debug\UtilTest.exe.config
+D:\02_Project\98_SW Program\MoonlakeTools\IoT.NETDemo\obj\Debug\UtilTest.exe
+D:\02_Project\98_SW Program\MoonlakeTools\IoT.NETDemo\obj\Debug\UtilTest.pdb
+D:\02_Project\98_SW Program\MoonlakeTools\IoT.NETDemo\bin\Debug\UtilTest.exe
+D:\02_Project\98_SW Program\MoonlakeTools\IoT.NETDemo\bin\Debug\UtilTest.pdb
+D:\02_Project\98_SW Program\MoonlakeTools\IoT.NETDemo\bin\Debug\MoonlakeTools.dll
+D:\02_Project\98_SW Program\MoonlakeTools\IoT.NETDemo\bin\Debug\Newtonsoft.Json.dll
+D:\02_Project\98_SW Program\MoonlakeTools\IoT.NETDemo\bin\Debug\MQTTnet.dll
+D:\02_Project\98_SW Program\MoonlakeTools\IoT.NETDemo\bin\Debug\MetroFramework.dll
+D:\02_Project\98_SW Program\MoonlakeTools\IoT.NETDemo\bin\Debug\HPSocketCS.dll
+D:\02_Project\98_SW Program\MoonlakeTools\IoT.NETDemo\bin\Debug\CSharpToolKit.dll
+D:\02_Project\98_SW Program\MoonlakeTools\IoT.NETDemo\bin\Debug\MoonlakeTools.pdb
+D:\02_Project\98_SW Program\MoonlakeTools\IoT.NETDemo\obj\Debug\IoT.NETDemo.csprojResolveAssemblyReference.cache
+D:\02_Project\Github\IoT.NETDemo\IoT.NETDemo\bin\Debug\UtilTest.exe.config
+D:\02_Project\Github\IoT.NETDemo\IoT.NETDemo\obj\Debug\UtilTest.exe
+D:\02_Project\Github\IoT.NETDemo\IoT.NETDemo\obj\Debug\UtilTest.pdb
+D:\02_Project\Github\IoT.NETDemo\IoT.NETDemo\bin\Debug\UtilTest.exe
+D:\02_Project\Github\IoT.NETDemo\IoT.NETDemo\bin\Debug\UtilTest.pdb
+D:\02_Project\Github\IoT.NETDemo\IoT.NETDemo\bin\Debug\MoonlakeTools.dll
+D:\02_Project\Github\IoT.NETDemo\IoT.NETDemo\bin\Debug\MQTTnet.dll
+D:\02_Project\Github\IoT.NETDemo\IoT.NETDemo\bin\Debug\MetroFramework.dll
+D:\02_Project\Github\IoT.NETDemo\IoT.NETDemo\bin\Debug\HPSocketCS.dll
+D:\02_Project\Github\IoT.NETDemo\IoT.NETDemo\bin\Debug\CSharpToolKit.dll
+D:\02_Project\Github\IoT.NETDemo\IoT.NETDemo\bin\Debug\MoonlakeTools.pdb
