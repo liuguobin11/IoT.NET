@@ -35,3 +35,6 @@ D:\02_Project\Github\IoT.NETDemo\IoT.NETDemo\bin\Debug\MetroFramework.dll
 D:\02_Project\Github\IoT.NETDemo\IoT.NETDemo\bin\Debug\HPSocketCS.dll
 D:\02_Project\Github\IoT.NETDemo\IoT.NETDemo\bin\Debug\CSharpToolKit.dll
 D:\02_Project\Github\IoT.NETDemo\IoT.NETDemo\bin\Debug\MoonlakeTools.pdb
+D:\02_Project\Github\IoT.NET\IoT.NETDemo\bin\Debug\UtilTest.exe.config
+D:\02_Project\Github\IoT.NET\IoT.NETDemo\obj\Debug\UtilTest.exe
+D:\02_Project\Github\IoT.NET\IoT.NETDemo\obj\Debug\UtilTest.pdb
