@@ -31,6 +31,7 @@ namespace IoT.NETDemo
             ioTAction.PublishConsumable("9529680912011287813", "5394", "1号切刀");
             ioTAction.PublishSensor("9529680912011287813", "1", "检平传感器");
             ioTAction.PublishParameter("10.221.128.93:40122");
+            ioTAction.PublishEVAPROD("9529680912011287813", "Presure", true, "8.9", "6", "9");
             #endregion
 
             #region MES
