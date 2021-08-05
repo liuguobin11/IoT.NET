@@ -39,8 +39,7 @@ namespace IoT.NETDemo
             string errorMsg;
             GHPAction ghpAction = new GHPAction();
 
-            ghpAction.Init("10.221.128.93", 40122, "BS_VI_ASSY_FINAL_21", 60, "QhKoJP80LC0oUnjrOUOizR6BOBekdt3k5oHUaN9p3KKPItjAh1OaYtaa7nw+3l5M");
-
+            ghpAction.Init("127.0.0.1", 8080, "BS_VI_ASSY_FINAL_21", 60, "kwOhT27mvLHsdODnkXmRokoTvBPrZ3vegc5Ksm7+UTNFwnLFwrj9l0Mt+K+VR0ij");
             ghpAction.Ping(out errorMsg);
             string msgRequest = ghpAction.msgRequest;
             string msgResponse = ghpAction.msgResponse;
